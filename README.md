@@ -1,4 +1,4 @@
 # htmlProject
 Hello This is Sarathchandra Reddy
-git config --global user.email "kakarlasarath4.com"
-  git config --global user.name "Sarathchandrakakarla".
+This is a Website designed for my School.
+This is designed using html and css.
